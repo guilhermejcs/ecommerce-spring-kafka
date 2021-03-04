@@ -1,4 +1,4 @@
-package com.hatanaka.ecommerce.checkout;
+package com.ecommerce.checkout;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

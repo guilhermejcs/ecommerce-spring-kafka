@@ -1,4 +1,4 @@
-package com.hatanaka.ecommerce.checkout.resource;
+package com.ecommerce.checkout.resource;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
